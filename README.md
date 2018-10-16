@@ -1,6 +1,6 @@
 # big-data-for-bees
 Repository to collect data sets, notes, and prototypes of integration for the Big Data for Bees
-data jamboree at Naturalis, 16 October 2018.
+data hackathon at Naturalis, 16 October 2018.
 
 - 13:45 - Inloop met koffie
 - 14:00 - Plenaire start
